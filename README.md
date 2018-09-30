@@ -1,1 +1,3 @@
 # Z-probe-on-smd-resistors-2512
+ This project is based on a change in the resistance of resistors under the influence of external factors in particular deformation. The object of the project is to check whether it is possible to use ordinary smd resistors instead of strain gages.
+ To implement the project I needed: 4 smd resistor with a resistance of 1 kOhm size 2512, ADC HX711, microcontroller ATtiny 85,pnp transistor bc 807-40 sot23,resistors of size 0805 with a rating of 8.2 kΩ 1 pcs., 22 kΩ 1 pcs., 2.2 kΩ 1 pcs.,capacitors 0805 with a capacity of 4.7u 1pcs, 1u 1pcs, 100n 1pcs, LED 0603 any color 1pcs.,double sided copper clad plate PCB, 3d printer for making plastic parts.Library for the NH711 from here: https://github.com/bogde/HX711
