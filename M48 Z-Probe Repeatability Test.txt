@@ -1,0 +1,44 @@
+SENDING:M48 P20 X100 Y100 V2
+M48 Z-Probe Repeatability Test
+echo:busy: processing
+echo:busy: processing
+1 of 20: z: 0.095
+echo:busy: processing
+2 of 20: z: 0.102
+echo:busy: processing
+3 of 20: z: 0.105
+echo:busy: processing
+4 of 20: z: 0.110
+5 of 20: z: 0.112
+echo:busy: processing
+6 of 20: z: 0.093
+echo:busy: processing
+7 of 20: z: 0.100
+echo:busy: processing
+8 of 20: z: 0.080
+echo:busy: processing
+9 of 20: z: 0.105
+echo:busy: processing
+10 of 20: z: 0.110
+echo:busy: processing
+11 of 20: z: 0.090
+echo:busy: processing
+12 of 20: z: 0.118
+echo:busy: processing
+13 of 20: z: 0.100
+echo:busy: processing
+14 of 20: z: 0.102
+echo:busy: processing
+15 of 20: z: 0.105
+16 of 20: z: 0.110
+echo:busy: processing
+17 of 20: z: 0.093
+echo:busy: processing
+18 of 20: z: 0.095
+echo:busy: processing
+19 of 20: z: 0.100
+echo:busy: processing
+20 of 20: z: 0.102
+Finished!
+Mean: 0.101375 Min: 0.080 Max: 0.118 Range: 0.038
+Standard Deviation: 0.008605
