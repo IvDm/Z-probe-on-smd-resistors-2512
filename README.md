@@ -41,4 +41,8 @@ This is how it looks in action:
 
 https://www.youtube.com/watch?v=x-7hq27BdUY&t=6s
 
+Thus, testing was carried out on the suitability of using SMD resistors for use in the sensor):
+
+https://www.youtube.com/watch?v=UKC9-srKAL4
+
 Oh, and sorry for my English)
