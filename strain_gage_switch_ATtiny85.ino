@@ -6,7 +6,9 @@
 #include <HX711.h>
 #define ledPin 0   //Pin indicator LED
 #define switchPin 2 //Switch pin
-HX711 scale(A3,A2);
+const int LOADCELL_DOUT_PIN = A3;
+const int LOADCELL_SCK_PIN = A2;
+HX711 scale;
 
 void setup() { 
  pinMode(ledPin, OUTPUT);
